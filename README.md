@@ -1,6 +1,6 @@
 # SalmonFinder
 
-
+link to website: https://sunimelon.github.io/SalmonFinder/ 
 
 ## Purpose (Why)
 
