@@ -1,6 +1,6 @@
 # SalmonFinder
 
-link to website: https://sunimelon.github.io/SalmonFinder/ 
+[The Salmon Finder Website](https://sunimelon.github.io/SalmonFinder/)
 
 ## Purpose (Why)
 
