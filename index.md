@@ -25,5 +25,15 @@ Pierce piped the patch of picking peppers, putting the peppers in Pierces picked
 
 ![Sunimelon](CatBeard.png)
 
-kdfjlkasj
+
+Some information about salmon:
+
+- They are an anadromous species of fish in the Salmonid family (I'm not sure actually)
+- They used to be abundent in Europe, but recently (not so recently) they have declined to the point of near extinction
+* I am worried about my thesis a little! I went through and edited most of it, but on the last day there was so many comments and edits and I went through and changed a lot, but I can only hope everything makes sense!
+
+![Sunimelon](SuniDaMelonDemon.jpeg)
+
+![Sunimelon](SalmonJoke.jpeg)
+
 
