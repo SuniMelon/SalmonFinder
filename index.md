@@ -30,6 +30,7 @@ Pierce piped the patch of picking peppers, putting the peppers in Pierces picked
 - They used to be abundent in Europe, but recently (not so recently) they have declined to the point of near extinction
 * I am worried about my thesis a little! I went through and edited most of it, but on the last day there was so many comments and edits and I went through and changed a lot, but I can only hope everything makes sense!
 
+![SuniMelon](https://github.com/SuniMelon/SalmonFinder/assets/160796537/d4e9f8dc-ee94-47c2-8093-b1080509a687)) 
 
 ## Additional To Do List
 
